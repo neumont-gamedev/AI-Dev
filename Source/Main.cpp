@@ -1,5 +1,6 @@
 #include "ExampleScene.h"
 #include "CAScene.h"
+#include "GOLScene.h"
 #include <memory>
 #include <SDL.h>
 
